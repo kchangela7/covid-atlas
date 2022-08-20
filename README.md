@@ -2,17 +2,16 @@
 
 ## Notes:
 ### Roles:
-1. Review Manager: Kush, Liam
-2. Project Manager: Kush
+1. Project Manager: Kush
+2. Review Manager: Kush, Liam
 3. Plan Manager: Kunal
-4. Documentation Manager: Kunal
+4. Documentation Manager: Kush
 5. Release Team: Kush, Liam, Kunal, Nathan, Kaan
 6. Front-end Lead: Kush
 7. Back-end Lead: Nathan
 8. Database Lead: Liam
 9. Testing Team: Nathan, Kaan
-10. Miscellaneous Lead: Kaan
-11. Research Team: Kaan, Liam, Nathan
+11. Research Team: Kush, Kaan, Liam, Nathan
 
 ## Project Description:
 This project is a functional website that displays historical COVID-19 per-capita statistics on an interactive world-map. The shading of the world-map is dependent on the data values' associated with each country. For example, if a country has high vaccination rates relative to other countries, it will appear darker on the world map. Statistics displayed by our program include cases, deaths, and vaccination data at 4 different time intervals (all time, last 1 year, last 6 months, and last 30 days). We pulled all our data from regularly updated json files listed under this public GitHub repository: https://github.com/owid/covid-19-data/tree/master/public/data. An example visualization by Our World In Data, the collectors of this data, can be found here: https://ourworldindata.org/covid-cases.
